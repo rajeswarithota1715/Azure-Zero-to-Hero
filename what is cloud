@@ -26,4 +26,16 @@ All the public clouds use the same concepts and provide the virtual machines to 
 Each virtual machine has their own os ,cpu and memory and each machine feels like it is the real machine and unaware of the other machines .
 If one VM is corrupted that doesn’t effect the other VM’s
 
-
+Some terminology in cloud :
+API
+Scalability
+Elasticity
+High Availability 
+Fault Tolerance
+Disaster Recovery
+Latency
+Availability Zones
+Regions
+Iaas
+Paas
+Saas
