@@ -2,6 +2,7 @@ what is cloud :
 10 or 15 years back we don't have any cloud providers , companies like google used procure some servers to run their applications .
 server is nothing but a computer which have cpu+Memory+RAM to run processes and applications .
 all servers are places in racks , and all the racks are placed in one room and data centers have multiple rooms like this.
+each data center is called a availability zone , one region have upto 3 availability zones , and one country may have multiple regions.
 companies own data centers also called as on-primises or private cloud
 Companies used to have system admins who will create abd maintain these servers , sstem admins used to monier and patch these servers continuously to remiduate the vulnarabilities .
 They should have 24/7 power supply in order to run the applications continuously , the maintanance is also a overhead.
