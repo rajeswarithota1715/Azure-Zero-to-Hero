@@ -22,3 +22,5 @@ Dividing one single physical server to multiple isolated servers with the help o
 All the public clouds use the same concepts and provide the virtual machines to requesters .
 Each virtual machine has their own os ,cpu and memory and each machine feels like it is the real machine and unaware of the other machines .
 If one VM is corrupted that doesn’t effect the other VM’s
+
+
