@@ -3,6 +3,8 @@ what is cloud :
 server is nothing but a computer which have cpu+Memory+RAM to run processes and applications .
 all servers are places in racks , and all the racks are placed in one room and data centers have multiple rooms like this.
 each data center is called a availability zone , one region have upto 3 availability zones , and one country may have multiple regions.
+each AD is isolated from each other , they won't share any power or network connection together .
+while choosing the region consider from which location you application will get more requests and is there any data restriction in your region .
 companies own data centers also called as on-primises or private cloud
 Companies used to have system admins who will create abd maintain these servers , sstem admins used to monier and patch these servers continuously to remiduate the vulnarabilities .
 They should have 24/7 power supply in order to run the applications continuously , the maintanance is also a overhead.
