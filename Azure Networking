@@ -17,3 +17,26 @@ Routes
 •	Routes dictate how network traffic is directed, specifying the destination and next hop.
 Route Tables
 •	Route Tables are collections of routes associated with subnets, enabling custom routing rules
+
+Virtual Network Peering
+Virtual Network Peering allows connecting Azure Virtual Networks directly, enabling resources in one VNet to communicate with resources in another. Key features include:
+
+Global VNet Peering: Peering can be established across regions.
+
+Transitive Routing: Traffic between peered VNets flows directly, improving performance.
+
+VNet Gateway
+VNet Gateway enables secure communication between on-premises networks and Azure Virtual Networks. Key features include:
+
+Site-to-Site VPN: Connects on-premises networks to Azure over an encrypted VPN tunnel.
+
+Point-to-Site VPN: Enables secure remote access to Azure resources.
+
+VPN Gateway
+Azure VPN Gateway provides secure, site-to-site connectivity between your on-premises network and Azure. Key features include:
+
+IPsec/IKE VPN Protocols: Ensures secure communication over the Internet.
+
+High Availability: Supports active-active and active-passive configurations for high availability.
+
+BGP Support: Allows dynamic routing between your on-premises network and Azure.
