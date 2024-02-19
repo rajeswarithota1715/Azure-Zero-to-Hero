@@ -8,16 +8,16 @@ security
 
 on high level there are 4 types of services
 
-1.Blob
+1.Blob storage: 
   large amount of unstructed data whiach includes large files ,images,videos and source data
   it is very cheap
 
-2.File
+2.File storage: 
   when you are want to share files with multiple VM's or containers
 
-3.Tables
+3.Tables storage: 
   used to store semi-structired data , kind of nosql databases
 
-4.Queues
+4.Queues storage: 
   to store the requests in que or jobs in que we will use this stotrage
 
