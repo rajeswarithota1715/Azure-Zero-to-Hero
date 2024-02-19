@@ -1,0 +1,8 @@
+create a resource group
+create virtual network 
+  enable bastion machie and public ip address
+  enable firewall
+  create new policy
+  create CIDR
+create the VM in above resorce group and above VNET
+select the option delete NIC in networking section while creating VM
