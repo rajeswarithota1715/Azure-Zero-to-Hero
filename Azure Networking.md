@@ -48,4 +48,9 @@ Key features include:
 
 *  IPsec/IKE VPN Protocols: Ensures secure communication over the Internet.
 *  High Availability: Supports active-active and active-passive configurations for high availability.
+
+![azure networking](Azure Networking.PNG)
+
+
+![azure networking](Azure Networking1.PNG)
 *  BGP Support: Allows dynamic routing between your on-premises network and Azure.
