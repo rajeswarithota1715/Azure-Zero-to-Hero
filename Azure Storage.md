@@ -1,10 +1,8 @@
 ###  why Azure storage?
 
-Microsoft Azure have durability of 99.99999999999 , that means changes of data getting lost is very very low
+Microsoft Azure have durability of 99.99999999999 , that means chances of data getting lost is very very low
 
 high performance services that will make data quickly redable and writable
-
-security
 
 on high level there are 4 types of services
 
